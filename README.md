@@ -1,8 +1,35 @@
+### Bamazon Challenge
+
+
+#### Purchasing more items than in stock, unable to process
+<img width="1440" alt="screen shot 2018-12-03 at 4 52 14 pm" src="https://user-images.githubusercontent.com/42658718/49404866-b9051e00-f71e-11e8-803e-d072ffcab579.png">
+
+
+#### Viewing inventory that is low in stock
+<img width="1440" alt="screen shot 2018-12-03 at 4 53 26 pm" src="https://user-images.githubusercontent.com/42658718/49404869-bb677800-f71e-11e8-91f6-c5f011369cdd.png">
+
+#### Viewing product scales
+<img width="1440" alt="screen shot 2018-12-03 at 4 56 01 pm" src="https://user-images.githubusercontent.com/42658718/49404871-be626880-f71e-11e8-88bb-c8e930036ae8.png">
+
+#### Purchasing items that are available and getting the total price need to purchase items. 
+<img width="1440" alt="screen shot 2018-12-03 at 5 01 54 pm" src="https://user-images.githubusercontent.com/42658718/49404881-c3271c80-f71e-11e8-8148-a56f8ac90117.png">
+
+#### Creating a new Department as a Supervisor
+<img width="1440" alt="screen shot 2018-12-03 at 5 02 41 pm" src="https://user-images.githubusercontent.com/42658718/49404884-c7533a00-f71e-11e8-9e19-16d6dbf7b7f8.png">
+
+#### Viewing overall sales as a Supervisor 
+<img width="1440" alt="screen shot 2018-12-03 at 5 03 42 pm" src="https://user-images.githubusercontent.com/42658718/49404890-cae6c100-f71e-11e8-9ab6-b7e797e591f6.png">
+
+
+
+
+
 ## Overview
 
 In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this unit. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
 
 Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
+
 
 ## Submission Guide
 
